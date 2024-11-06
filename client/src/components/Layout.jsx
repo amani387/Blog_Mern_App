@@ -13,7 +13,7 @@ function Layout(props) {
             navigate("/");
           }}
         >
-          SheyBlogs - MERN
+          AmanBlogs - MERN
         </h1>
       </div>
       <div className="p-5">{props.children}</div>
